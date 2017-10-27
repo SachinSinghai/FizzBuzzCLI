@@ -13,14 +13,17 @@ https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_insta
 3) Download the project in the folder which you have created in the step number 2. 
 Below step will help you to download this project.
 To download Git in your system, follow the steps given here in below url:
+
 https://git-scm.com/download/win
 
 To installGit in your system, follow the steps given here in below url:
+
 https://www.atlassian.com/git/tutorials/install-git
 
 If you have installed Git in your system, then go to folder which you have created in step number 2.
 Then right click and select option Git Bash Here.
 Then run below command:
+
 git clone https://github.com/SachinSinghai/FizzBuzzCLI
 
 4) To run this project, double click on the run.bat file which is at the root (FizzBuzzCLI) of the project.
