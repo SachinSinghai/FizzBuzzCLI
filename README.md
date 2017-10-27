@@ -1,5 +1,6 @@
 # fizzbuzz
-1) Get install java, If you do not have it in your system. If you have, then please ignore this step and go to step number 2.
+1) Get install java, If you do not have it in your system. If you have, 
+then please ignore this step and go to step number 2.
 Install Java, JDK 1.8 is preferable. These steps are OS windows supported.
 If Java is not installed, kindly go to below url and follow the steps:
 https://java.com/en/download/help/windows_manual_download.xml
@@ -9,7 +10,8 @@ https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_insta
 
 2) Crate a folder(name and path which you can remember).
 
-3) Download the project in the folder which you have created in the step number 2. Below step will help you to download this project.
+3) Download the project in the folder which you have created in the step number 2. 
+Below step will help you to download this project.
 To download Git in your system, follow the steps given here in below url:
 https://git-scm.com/download/win
 
