@@ -1,9 +1,9 @@
 echo off
 
-mkdir target
+mkdir destination
 
-javac -d target -sourcepath src src\com\java\kenzan\FizzBuzzController.java
+javac -d destination -sourcepath src src\com\java\kenzan\FizzBuzzController.java
 
-java -cp target com.java.kenzan.FizzBuzzController
+java -cp destination com.java.kenzan.FizzBuzzController
 
 pause
